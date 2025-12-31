@@ -1,4 +1,4 @@
-## hi 👋, i'm Yusuf Enes
+### hi 👋, i'm Yusuf Enes
 
 a computer engineering student
 
@@ -7,6 +7,4 @@ a computer engineering student
 - 💼 I’m looking for a part-time job
 - 📫 You can reach me via yusufeneskutuk@gmail.com
 
-### tech
-- Java
-- Git & GitHub
+
